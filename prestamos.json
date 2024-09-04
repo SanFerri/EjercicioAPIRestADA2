@@ -1,0 +1,137 @@
+[
+    {
+      "id": 1,
+      "montoprestamo": 10000,
+      "interes": 3.5,
+      "cuotas": 24,
+      "fechainicio": "2023-01-01",
+      "balance": 9500,
+      "idcliente": 101
+    },
+    {
+      "id": 2,
+      "montoprestamo": 15000,
+      "interes": 4.2,
+      "cuotas": 36,
+      "fechainicio": "2023-03-15",
+      "balance": 14000,
+      "idcliente": 102
+    },
+    {
+      "id": 3,
+      "montoprestamo": 5000,
+      "interes": 2.8,
+      "cuotas": 12,
+      "fechainicio": "2023-05-10",
+      "balance": 4500,
+      "idcliente": 103
+    },
+    {
+      "id": 4,
+      "montoprestamo": 20000,
+      "interes": 5.0,
+      "cuotas": 48,
+      "fechainicio": "2022-11-20",
+      "balance": 18000,
+      "idcliente": 104
+    },
+    {
+      "id": 5,
+      "montoprestamo": 30000,
+      "interes": 3.0,
+      "cuotas": 60,
+      "fechainicio": "2022-09-05",
+      "balance": 28000,
+      "idcliente": 105
+    },
+    {
+      "id": 6,
+      "montoprestamo": 12000,
+      "interes": 4.5,
+      "cuotas": 36,
+      "fechainicio": "2023-02-28",
+      "balance": 11000,
+      "idcliente": 106
+    },
+    {
+      "id": 7,
+      "montoprestamo": 25000,
+      "interes": 3.8,
+      "cuotas": 48,
+      "fechainicio": "2022-08-10",
+      "balance": 23000,
+      "idcliente": 107
+    },
+    {
+      "id": 8,
+      "montoprestamo": 8000,
+      "interes": 4.1,
+      "cuotas": 24,
+      "fechainicio": "2023-06-01",
+      "balance": 7500,
+      "idcliente": 108
+    },
+    {
+      "id": 9,
+      "montoprestamo": 18000,
+      "interes": 2.9,
+      "cuotas": 36,
+      "fechainicio": "2023-04-18",
+      "balance": 17000,
+      "idcliente": 109
+    },
+    {
+      "id": 10,
+      "montoprestamo": 22000,
+      "interes": 5.2,
+      "cuotas": 48,
+      "fechainicio": "2023-03-25",
+      "balance": 21000,
+      "idcliente": 110
+    },
+    {
+      "id": 11,
+      "montoprestamo": 27000,
+      "interes": 4.0,
+      "cuotas": 60,
+      "fechainicio": "2023-05-05",
+      "balance": 25000,
+      "idcliente": 111
+    },
+    {
+      "id": 12,
+      "montoprestamo": 4000,
+      "interes": 3.3,
+      "cuotas": 12,
+      "fechainicio": "2023-01-30",
+      "balance": 3500,
+      "idcliente": 112
+    },
+    {
+      "id": 13,
+      "montoprestamo": 32000,
+      "interes": 4.7,
+      "cuotas": 72,
+      "fechainicio": "2023-07-10",
+      "balance": 31000,
+      "idcliente": 113
+    },
+    {
+      "id": 14,
+      "montoprestamo": 9000,
+      "interes": 3.1,
+      "cuotas": 24,
+      "fechainicio": "2023-06-25",
+      "balance": 8500,
+      "idcliente": 114
+    },
+    {
+      "id": 15,
+      "montoprestamo": 11000,
+      "interes": 2.6,
+      "cuotas": 36,
+      "fechainicio": "2023-08-01",
+      "balance": 10000,
+      "idcliente": 115
+    }
+  ]
